@@ -1,0 +1,11 @@
+{
+  "name": "AED Finder & Crowdsource Thailand",
+  "description": "ระบบค้นหาเครื่องกระตุกหัวใจไฟฟ้า AED ใกล้ตัวอัตโนมัติ พร้อมระบบเพิ่มจุดติดตั้งโดยประชาชน (Crowdsourcing) และระบบอนุมัติตรวจสอบหลังบ้าน",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
